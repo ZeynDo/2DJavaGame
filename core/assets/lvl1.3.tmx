@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-up" width="40" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="3">
+ <tileset firstgid="1" name="blocks" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="maps/blocks.png" width="96" height="32"/>
+ </tileset>
+ <layer id="1" name="green" width="40" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUkAKYiMSjYGABMXEEACjwACc=
+  </data>
+ </layer>
+ <layer id="3" name="red" width="40" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAJMwIgD09sMWgIADaAADQ==
+  </data>
+ </layer>
+ <layer id="2" name="blue" width="40" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBCZhxYGoBAAsMABM=
+  </data>
+ </layer>
+</map>
